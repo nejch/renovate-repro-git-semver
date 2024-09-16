@@ -1,0 +1,4 @@
+[submodule "wazuh-kubernetes"]
+	path = wazuh-kubernetes
+	url = https://github.com/wazuh/wazuh-kubernetes.git
+	branch = v4.9.0
