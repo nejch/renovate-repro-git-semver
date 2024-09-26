@@ -1,4 +1,10 @@
 {
+  "packageRules": [
+    {
+      "matchDepNames": ["wazuh-kubernetes"],
+      "matchNewValue": "/^v.*/",
+    }
+  ],
   "git-submodules": {
     "enabled": true
   }
